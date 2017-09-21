@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Generate multiple books\nUsing new functionality to have multiple config files, the `build.R` file loops through each config file to generate a book from each.",
+    "created" : 1506008347633.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2872142027",
+    "id" : "7C5314E5",
+    "lastKnownWriteTime" : 1506008421,
+    "last_content_update" : 1506008421912,
+    "path" : "C:/Users/steph/Dropbox/Locke Data/Locke Data Training/samplebook/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

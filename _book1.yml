@@ -1,0 +1,4 @@
+book_filename: bookdown1
+output_dir: _book1
+delete_merged_file: true
+rmd_files: ["index.Rmd", "MOD02DataManip.Rmd"]

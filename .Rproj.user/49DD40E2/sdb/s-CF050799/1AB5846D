@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "if(!require(remotes)) install.packages(\"remotes\")\nremotes::install_github(\"rstudio/bookdown#465\")\nlibrary(bookdown)\nbooks<-list.files(pattern = \"*.yml\")\nfor(b in books){\n  render_book(\"index.Rmd\", config_file = b)\n}",
+    "created" : 1506007007097.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "766726071",
+    "id" : "1AB5846D",
+    "lastKnownWriteTime" : 1506008320,
+    "last_content_update" : 1506008320693,
+    "path" : "C:/Users/steph/Dropbox/Locke Data/Locke Data Training/samplebook/build.R",
+    "project_path" : "build.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
